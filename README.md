@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/85174365/135728160-7485b521-abc2-40bb-b42a-3d97eb80dcfb.png)
+
+
 # dio-aws-serverless
 
 Neste projeto vamos criar uma infraestrutra em nuvem AWS com API Gateway, DynamoDB, AWS Lambda e AWS CloudFormation utilizando o framework Serverless para o desenvolvimento baseada em Infraestrutura as a Code.
